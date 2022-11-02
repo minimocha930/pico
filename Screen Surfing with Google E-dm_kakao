@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Screen Surfing with Google E-dm</title>
+	<style>
+
+	body {
+    background-color: #FFFFFF;
+    color: hsla(192,94%,94%,1);
+    border-color: hsla(192,94%,94%,1);
+}
+    a:link {
+    color: hsla(192,94%,94%,1);
+}
+    a:visited {
+    color: hsla(192,94%,94%,1);
+}
+a:hover {
+    color: hsla(192,94%,94%,1);
+}
+a:active {
+    color: hsla(192,94%,94%,1);
+}
+h1 {
+    color: hsla(192,94%,94%,1);
+}
+h2 {
+    color: hsla(192,94%,94%,1);
+}
+h3 {
+    color: hsla(192,94%,94%,1);
+}
+h4 {
+    color: hsla(192,94%,94%,1);
+}
+h5 {
+    color: hsla(192,94%,94%,1);
+}
+h6 {
+    color: hsla(192,94%,94%,1);
+}
+img{
+
+display: block;
+
+}
+    </style>
+</head>
+
+<body bgcolor="#E1F8FE" text link="#E1F8FE" vlink="#E1F8FE" alink="#E1F8FE" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" color="#373737">
+<span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span><span style="color: hsla(192,94%,94%,1)"></span>
+<table bgcolor="#ffffff" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; border:1px solid #eeeeee" width="700px" height="auto" >
+<tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://user-images.githubusercontent.com/116154585/199427295-171c204e-b6b0-4e5d-a80a-91b803637be5.png" alt="" usemap="#Map"></td>
+  </tr>
+<tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://user-images.githubusercontent.com/116154585/199427310-c2364614-bcbd-4523-9030-c0b7f8580baa.png" usemap="#Map2"></td>
+  </tr>
+  <tr>
+	<td width="300" style="margin: 0; border: 0; padding: 0"><img src="https://user-images.githubusercontent.com/116154585/199427315-b1294d50-5485-454a-867e-0bffb926bb9c.png" usemap="#Map3"></td>
+  </tr>
+</table>
+</map>
+
+<map name="Map">
+  <area shape="rect" coords="310,355,511,378" href="https://www.naver.com/" target="_blank" alt="">
+</map>
+
+<map name="Map2">
+  <area shape="rect" coords="91,61,178,85" href="https://www.naver.com/" target="_blank">
+</map>
+
+<map name="Map3">
+  <area shape="rect" coords="159,47,539,93" href="https://www.naver.com/" target="_blank">
+</map>
